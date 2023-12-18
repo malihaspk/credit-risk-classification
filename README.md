@@ -1,4 +1,4 @@
-# credit-risk-classification Module 20 Assignment
+# Credit-risk-classification Module 20 Assignment
 
 This repsitory contains the Module 20 assignment (credit-risk-classification)
 Purpose of this assignment is to identify the creditworthiness of borrowers by using various machine learning techniques to train and evaluate a model based on loan risk. We used  a dataset of historical lending activity from a peer-to-peer lending services company.
